@@ -1,0 +1,7 @@
+INSTALLATION instructions:
+
+1) Set up private keys for github so that you can install this package from github link:
+https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+2) Use pip (python 3.7 has been tested but in principle should work as long as pymc3 compatibility is there)
+pip install git+ssh://git@github.com/calico/Bayesian_Survival_Analysis.git
