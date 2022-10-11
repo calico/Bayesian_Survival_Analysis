@@ -93,5 +93,7 @@ If you perform both MMHC and physiological analyses together, you will see the f
 
 [outputprefix]_combined_results.tsv - this file is tab separated and contains the summary of the results from the pymc3 fit of the MMHC model. Each row in the file represents the effect size estimation of parents on children within the combined network.
 
+DOI for citing software: 10.5281/zenodo.7186584
+
 [1] Joint inference of physiological network and survival analysis identifies factors associated with aging rate. Sethi and Melamud, Cell Reports Methods, 2022, Accepted.
 
