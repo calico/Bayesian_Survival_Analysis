@@ -122,7 +122,7 @@ tzlocal==2.1
 urllib3==1.26.2
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==2.0.2
+Werkzeug==2.2.3
 widgetsnbextension==3.4.2
 wrapt==1.13.3
 xarray==0.16.0
